@@ -2,10 +2,10 @@
 
 ![Header](./src/header.jpg)
 
-## Full Stack Developer | DevOps Enthusiast | Educator
+## Full Stack Developer | DevOps Enthusiast | Educator | PhD in Management
 A bit about me:
 
-- 🔥 Developer with over 6 years of experience
+- 🔥 Developer with over 8 years of experience
 - 🌱 Currently learning Advanced DevOps practices 💀
 - 🤝 Looking to collaborate on PHP or JS projects
 - 🥅 2025 Goals: Contribute more to Open Source projects
@@ -18,6 +18,10 @@ A bit about me:
 <a href="https://portfolio.a2htech.com">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
+<a href="./src/cv-haritiana-andrianarizaka.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" style="height:22px;">
+</a>
+
 
 ## 🛠️ Skills
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
